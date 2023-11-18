@@ -3,7 +3,7 @@
 
 Este projeto é uma aplicação web que oferece acesso a diferentes plataformas de redes sociais em um ambiente integrado.
 ## Link para o Projeto
-Confira o projeto no [Login]([https://alurabooks-cyan.vercel.app/](https://projeto-login-pied.vercel.app/)).
+Confira o projeto no [Login](https://projeto-login-pied.vercel.app/).
 ## Páginas
 
 - [Home](home.html)
