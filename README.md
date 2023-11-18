@@ -2,7 +2,8 @@
 ![image](https://github.com/htadmg/projeto-social/assets/124289385/0fc4e87e-f580-4531-9a56-254600edeb2f)
 
 Este projeto é uma aplicação web que oferece acesso a diferentes plataformas de redes sociais em um ambiente integrado.
-
+## Link para o Projeto
+Confira o projeto no [Alura Books](https://alurabooks-cyan.vercel.app/).
 ## Páginas
 
 - [Home](home.html)
