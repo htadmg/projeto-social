@@ -34,6 +34,8 @@ Os estilos são definidos nos arquivos `style.css` e `social.css`. Eles são res
 Este projeto está sob a licença [MIT](LICENSE).
 
 ---
+## Autor
+Este projeto foi desenvolvido por [Agata Domingues Farias](https://www.linkedin.com/in/agatadominguesfarias/) como parte de um estudo prático.
 
 Se você deseja contribuir para o desenvolvimento deste projeto, fique à vontade para abrir um pull request. Apreciamos o seu interesse em ajudar a melhorar esta aplicação!
 
